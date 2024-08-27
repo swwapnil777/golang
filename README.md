@@ -2,7 +2,6 @@
 # Running the Go Program
 
 
-![1576592374](https://github.com/user-attachments/assets/94926146-2c55-43ef-b92b-e562f73bf208)
 
 ### Prerequisites
 
