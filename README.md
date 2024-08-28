@@ -1,7 +1,7 @@
 
 # Running the Go Program
 
-
+![Alt text](Go.png)
 
 ### Prerequisites
 
